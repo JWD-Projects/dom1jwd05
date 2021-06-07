@@ -9,4 +9,4 @@
 > Display a message in the "p" tag ‘Dear ___ your birthstone is ____’  
 > An image display of the birthstone that comes from an array object   
   
-> 3) Try the second step on changing the select box instead of clicking the next button  
+3) Try the second step on changing the select box instead of clicking the next button  
