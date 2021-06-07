@@ -1,0 +1,26 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  margin: auto;
+
+  /* background-color: rgb(233, 57, 57); */
+}
+
+.flex-container > div {
+  flex: 50%;
+  background-color: rgb(248, 218, 225);
+  color: #2d2926ff;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+.secondDiv,
+.thirdDiv {
+  display: none;
+}
