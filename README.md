@@ -4,9 +4,9 @@
 > Change the textbox to have a red border  
 > Display a message above the textbox - ‘Please enter your name’  
 >   
-2)  Once successfully validated, display the second div with a message ‘ Welcome ___, pick your birth month’ and allow the user to select a month. On click of the ‘next’ button,   
+2)  Once successful validation, display the second div with a message ‘ Welcome ___, pick your birth month’ and allow the user to select a month. On click of the ‘next’ button,   
 > Display the third div  
-> Display a message in the <p> tag ‘Dear ___ your birthstone is ____’  
+> Display a message in the "p" tag ‘Dear ___ your birthstone is ____’  
 > An image display of the birthstone that comes from an array object   
   
 > 3) Try the second step on changing the select box instead of clicking the next button  
